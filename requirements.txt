@@ -4,3 +4,5 @@ langchain_community
 langchainhub
 ipykernel
 langchain_groq
+langchain_huggingface
+numpy<2
