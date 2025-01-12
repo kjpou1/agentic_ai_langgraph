@@ -6,3 +6,6 @@ ipykernel
 langchain_groq
 langchain_huggingface
 numpy<2
+bs4
+tiktoken
+chromadb
