@@ -47,3 +47,37 @@ This notebook explores LangGraph basics.
   - Demonstrates superior performance on decision-making tasks in interactive environments.
 - **URL**: [arXiv](https://arxiv.org/abs/2210.03629)
 
+## Agentic RAG
+
+
+
+
+
+
+
+
+
+## LLM-Powered SQL Database Agents
+
+This project demonstrates the creation and deployment of an LLM-powered SQL database agent using LangGraph. It integrates advanced language models with SQL to interpret natural language queries and execute database commands.
+
+#### **Objective**
+The notebook demonstrates the use of LangGraph to create an intelligent SQL database agent capable of interpreting user queries in natural language, translating them into SQL commands, and returning results. It integrates LLMs with SQL databases for querying and data management.
+
+**Key Features**:
+- Interactive SQL querying with natural language inputs.
+- Support for basic, intermediate, and advanced SQL queries including joins, aggregations, and window functions.
+- Error handling for edge cases like unmatched records and malformed queries.
+- Visualization of query-processing workflows using LangGraph's `MermaidDrawMethod`.
+
+**Applications**:
+- Querying structured data in databases with ease.
+- Building intelligent customer-facing or internal query agents.
+- Demonstrating advanced use cases of LLMs in data management.
+
+**Future Enhancements**:
+- Integration with larger datasets and real-world database schemas.
+- Extending support for complex analytical queries.
+- Incorporating additional natural language understanding capabilities.
+
+
